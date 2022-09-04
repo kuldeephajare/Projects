@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hKW5sCB1nYvVu487oyR6NSpWokZ9z7LD5ydqeFP9MKa1JYEytYGYzeh7JJk8FsJkSoJ+AWhdLY/T0yxRtjU6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\EncryptDecrypt\\EncryptDecrypt\\EncryptDecrypt\\EncryptDecrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
